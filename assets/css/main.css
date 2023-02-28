@@ -1623,7 +1623,7 @@ input, select, textarea {
 /* Image */
 
 	.image {
-		display: inline-block;
+		display: block;
 		position: relative;
 	}
 
